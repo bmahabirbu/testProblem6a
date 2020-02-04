@@ -24,7 +24,7 @@ int findSingle(int arr[], int arr_size)
 			}
 
 		}
-		cout << single << endl;
+		//cout << single << endl;
 		if(single == 0)
 		{
 			return arr[i];
